@@ -1,0 +1,2 @@
+./hdl/register.sv
+./test/tb_register.sv
