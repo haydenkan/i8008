@@ -1,0 +1,6 @@
+./addr_pointer_ahl.sv
+./common.svh
+./scratch_pad.sv
+./sp_addr_decoder.sv
+./sp_addr_mux.sv
+./sp_addr_sss_ddd.sv

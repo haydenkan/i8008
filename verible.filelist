@@ -1,2 +1,6 @@
-./hdl/register.sv
-./test/tb_register.sv
+./hdl/addr_pointer_ahl.sv
+./hdl/common.svh
+./hdl/scratch_pad.sv
+./hdl/sp_addr_decoder.sv
+./hdl/sp_addr_mux.sv
+./hdl/sp_addr_sss_ddd.sv
